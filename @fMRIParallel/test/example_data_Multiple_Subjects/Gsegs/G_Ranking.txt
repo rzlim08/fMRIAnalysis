@@ -1,0 +1,6 @@
+Expected subject G rank: 32
+
+Subject   1: rank: 32   rcond:0.046979    gg: 4.58
+Subject   2: rank: 32   rcond:0.046979    gg: 4.58
+Subject   3: rank: 32   rcond:0.046979    gg: 4.58
+Subject   4: rank: 32   rcond:0.046979    gg: 4.58

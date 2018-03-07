@@ -1,0 +1,17 @@
+listver:5
+Created: 08-Aug-2017
+Version: cpca_1.2.2(19)-dev
+subjects:4
+runs:1
+minRunCount:1
+groups:0
+multipleFrequency:0
+frequencies:0
+frlabels:<na>
+base_directory:/home/cnoslab-ra/Applications/CPCA/example_data_Multiple_Subjects
+format:{subject_dir}
+list:f*.img
+scandir:{subject_dir} sdir:s01 id:s01 group:<na> frequency:<na> runs:<na>
+scandir:{subject_dir} sdir:s03 id:s03 group:<na> frequency:<na> runs:<na>
+scandir:{subject_dir} sdir:sz01 id:sz01 group:<na> frequency:<na> runs:<na>
+scandir:{subject_dir} sdir:sz02 id:sz02 group:<na> frequency:<na> runs:<na>

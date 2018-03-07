@@ -1,0 +1,7 @@
+Estimated Completion Time: 03 Minutes 15 Seconds
+ - Subject s01  1 of 4 Run:  1 
+ - Subject s03  2 of 4 Run:  1 
+ - Subject sz01  3 of 4 Run:  1 
+ - Subject sz02  4 of 4 Run:  1 
+---------------------------------------------------------------------------
+         Elapsed	15:45:08	15:45:21	0 Minute 12 Seconds

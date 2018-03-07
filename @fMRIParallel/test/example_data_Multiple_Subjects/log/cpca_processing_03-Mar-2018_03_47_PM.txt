@@ -1,0 +1,8 @@
+
+   - Regressing G' * Z  -
+   - loading:     Subject: s01  Run:  1
+   - loading:     Subject: s03  Run:  1
+   - loading:     Subject: sz01  Run:  1
+   - loading:     Subject: sz02  Run:  1
+---------------------------------------------------------------------------
+         Elapsed	15:47:21	15:48:49	1 Minute 27 Seconds
